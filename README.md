@@ -1,16 +1,20 @@
-# React + Vite
+# Dev Stack – Build Your Ideal Development Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## About the Project
+Dev Stack is a responsive web application built with React. It allows users to explore different technologies and create their ideal development stack.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React.js
+- JavaScript
+- Tailwind CSS
+- React Icons
+- React Toastify
+- JSON
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+1. Explore different technologies with descriptions and ratings.
+2. Build your own stack by selecting one technology from each category.
+3. Responsive design for desktop and mobile devices.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Author
+Saifa
